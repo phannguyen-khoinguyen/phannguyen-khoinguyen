@@ -1,5 +1,5 @@
 # Phan Nguyễn Khôi Nguyên 
-**Data Analyst Intern**
+**Data Analyst Intern**  
 📍 Ho Chi Minh City | 📧 phannguyen.khoinguyen2005@gmail.com
 
 ---
