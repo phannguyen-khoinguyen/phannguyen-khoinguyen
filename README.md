@@ -6,7 +6,7 @@ Data Analyst Intern
 
 ## 👋 About Me
 
-Fourth-year Business Information Systems and Digital Transformation student pursuing a career in Data Analytics, with a strong interest in turning data into actionable business insights. Developing hands-on skills in SQL, Power BI, Excel, and Python/Pandas through academic and personal projects. Seeking a Data Analyst Intern opportunity to apply analytical skills, gain real-world experience, and contribute to data-driven business decisions.
+**Fourth-year Business Information Systems** student pursuing a career in **Data Analytics**, with a strong interest in turning data into actionable business insights. Developing hands-on skills in **SQL, Power BI, Excel, and Python/Pandas** through academic and personal projects. Seeking a **Data Analyst Intern** opportunity to apply analytical skills, gain real-world experience, and contribute to **data-driven business decisions.**
 
 ---
 
