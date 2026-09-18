@@ -15,8 +15,11 @@
 ### [Banking Transaction Analysis & Fraud Monitoring at Xóm Bank | Power BI](https://github.com/phannguyen-khoinguyen/Banking-Transaction-Analysis-Fraud-Monitoring)  
 Power BI dashboard for banking transaction analysis — tracking revenue trends, customer payment behavior, and fraud/risk monitoring (refund rate, high-risk transactions, flagged merchants).
 
- ### [Bank Branch Performance & Operational Risk Analysis | SQL](https://github.com/phannguyen-khoinguyen/Bank-Branch-Performance-Operational-Risk-Analysis-)
+### [Bank Branch Performance & Operational Risk Analysis | SQL](https://github.com/phannguyen-khoinguyen/Bank-Branch-Performance-Operational-Risk-Analysis-)
 SQL analysis of bank branch operational performance — evaluating branch scale, loan portfolio health, card fraud risk, NPL ratio, and staff productivity to support risk management and investment decisions across a multi-branch banking network.
+
+### [Distribution Sales Analysis | Excel](https://github.com/phannguyen-khoinguyen/distribution-sales-dashboard)
+Excel dashboard analyzing 2022–2024 distribution sales across 4 distributors, 10 products, and 3 regions. 
 
 ---
 
